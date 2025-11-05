@@ -50,17 +50,16 @@ _Technologies used in the project:_
 
 <br>
 
-## Author ✒️
+## Autor ✒️
 
-_If you like what I do, visit my website and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
+_Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
-Designed with 💖 - by [Romero José](https://romerojose.com/)
+Diseñado con 💖 - por [Jose Romero](https://romezvz.com/)
 
-### Social networks
+### Redes Sociales
 
-* **GitHub** - *Repositories of my latest projects* - [romerojoseing](https://github.com/romerojoseing)
-* **CodePen** - *Interesting mini projects and tests* - [romerojoseing](https://codepen.io/romerojoseing)
-* **LinkedIn** - *Professional developer profile* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
-* **Instagram** - *Documenting my journey* - [romerojoseing](https://www.instagram.com/romerojoseing/)
-* **Facebook** - *Publications and promotional content* - [romerojoseing](https://www.facebook.com/romerojoseing)
-* **Twitter** - *Random comments and more* - [romerojoseing](https://twitter.com/romerojoseing)
+* **GitHub** - *Repositorios de mis últimos proyectos* - [romezvz](https://github.com/romezvz)
+* **LinkedIn** - *Perfil desarrollador profesional* - [romezvz](https://www.linkedin.com/in/romezvz/)
+* **Instagram** - *Documentando mi viaje* - [romezvz](https://www.instagram.com/romezvz/)
+* **Twitter** - *Comentarios random y más* - [romezvz](https://twitter.com/romezvz)
+* **Strava** - *Una de mis aficiones personales* - [romezvz](https://www.strava.com/athletes/165467449)
