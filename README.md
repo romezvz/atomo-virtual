@@ -3,7 +3,6 @@
 _This web is dedicated to display the content of Átomo Virtual how agency of web development._
 
 ## [Try the live demo](https://romerojoseing.github.io/atomo-virtual/) ⚡
-![Thumbnail](https://github.com/romerojoseing/archivos/blob/master/img/atomo-virtual.jpg?raw=true)
 
 <br>
 
